@@ -19,7 +19,7 @@ Select Dimensionality: 3 <br>
 4. Click "Save and upload" to save the file
 
 
-and use the following codes to reproduce our sample figures: 
+## Use the following codes to reproduce our sample figures: 
 ###### [Fig1b_code.m](Fig1b_code.m)
 ###### [Fig2a_code.m](Fig2a_code.m)
 ###### [Fig2b_and_d_code.m](Fig2b_and_d_code.m)
