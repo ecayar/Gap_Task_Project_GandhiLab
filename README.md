@@ -5,8 +5,7 @@ To perform GPFA follow Byron Yu's public software (links below): <br>
 [GPFA MATLAB code](https://users.ece.cmu.edu/~byronyu/software.shtml) <br>
 
 ## Navigating DataHigh
-1. After creating the usable structure D, <br>
-write DataHigh(D,'DimReduce') in the command window <br>
+1. Type DataHigh(D,'DimReduce') in the command window <br>
 the DataHigh GUI will then execute. <br>
 2. Adjust your parameters. To use the same parameters used in this manuscript follow the following image <br>
 Time bin width: 20 ms <br>
