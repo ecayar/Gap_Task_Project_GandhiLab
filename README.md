@@ -19,12 +19,12 @@ Select Dimensionality: 3 <br>
 
 
 ## Download the following data to reproduce our sample figures:
-###### [data_1c.mat](data_1c.mat)
+###### [data_1c_d.mat](data_1c_d.mat)
 ###### [data_3a_4a_5ab.mat](data_3a_4a_5ab.mat)
 ###### [data_3b_4b_5ce.mat](data_3b_4b_5ce.mat)
 
 ## Use the following codes to reproduce our sample figures: 
-###### [Fig1c_code.m](Fig1c_code.m)
+###### [Fig1c_d_code.m](Fig1c_d_code.m)
 ###### [Fig3a_4a_5a_and_b_code.m](Fig3a_4a_5a_and_b_code.m)
 ###### [Fig3b_4b_5c_and_e_code.m](Fig3b_4b_5c_and_e_code.m)
 
