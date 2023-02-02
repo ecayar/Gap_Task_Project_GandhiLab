@@ -18,15 +18,15 @@ Select Dimensionality: 3 <br>
 4. Click "Save and upload" to save the file
 
 
-## Reproduce our sample figures:
-### 1. Download the following data:
+## Reproduce sample figures:
+### 1. Download data (.mat files):
 ###### [data_1c_d.mat](data_1c_d.mat)
 ###### [data_3a_4a_5ab.mat](data_3a_4a_5ab.mat)
 ###### [data_3b_4b_5ce.mat](data_3b_4b_5ce.mat)
 ###### [data_6.mat](data_6.mat)
 
 
-### 2. Use the following codes: 
+### 2. Download codes (.m files): 
 ###### [Fig1c_d_code.m](Fig1c_d_code.m)
 ###### [Fig3a_4a_5a_and_b_code.m](Fig3a_4a_5a_and_b_code.m)
 ###### [Fig3b_4b_5c_and_e_code.m](Fig3b_4b_5c_and_e_code.m)
