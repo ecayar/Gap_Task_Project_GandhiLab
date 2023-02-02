@@ -1,4 +1,4 @@
-# Gap-Task-Project
+# Distinct context- and content-dependent population codes in superior colliculus during sensation and action
 
 To perform GPFA follow Byron Yu's public software (links below): <br>
 [DataHigh](https://users.ece.cmu.edu/~byronyu/software/DataHigh/datahigh.html) <br>
