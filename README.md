@@ -22,9 +22,12 @@ Select Dimensionality: 3 <br>
 ###### [data_1c_d.mat](data_1c_d.mat)
 ###### [data_3a_4a_5ab.mat](data_3a_4a_5ab.mat)
 ###### [data_3b_4b_5ce.mat](data_3b_4b_5ce.mat)
+###### [data_6.mat](data_6.mat)
+
 
 ## Use the following codes to reproduce our sample figures: 
 ###### [Fig1c_d_code.m](Fig1c_d_code.m)
 ###### [Fig3a_4a_5a_and_b_code.m](Fig3a_4a_5a_and_b_code.m)
 ###### [Fig3b_4b_5c_and_e_code.m](Fig3b_4b_5c_and_e_code.m)
+###### [Fig6_code.m](Fig6_code.m)
 
