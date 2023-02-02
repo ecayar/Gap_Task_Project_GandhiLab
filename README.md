@@ -7,9 +7,9 @@ To perform GPFA follow Byron Yu's public software (links below): <br>
 ## Navigating DataHigh
 ### 1. Type DataHigh(D,'DimReduce') in the command window <br>
 D is a struct that contains: <br>
-  a) spiking activity from the interested time interval (used by GPFA algorithm)
-  b) trial ids (not seen/used by GPFA algorithm) <br>
-  c) task type (not seen/used by GPFA algorithm) <br>
+  a) spiking activity from the interested time interval <br>
+  b) trial ids <br>
+  c) task type <br>
 (see Methods in manuscript for more information) <br>
 DataHigh GUI will then execute. <br>
 ### 2. Adjust your parameters. To use the same parameters used in this manuscript follow the following image <br>
