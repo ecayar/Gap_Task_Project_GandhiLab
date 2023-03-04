@@ -25,7 +25,10 @@ Select Dimensionality: 3 <br>
 
 ## Reproduce sample figures:
 ### 1. Download data (.mat files):
+###### [data_1b.mat](data_1b.mat)
+###### [data_1b_pt2.mat](data_1b_pt2.mat)
 ###### [data_1c_d.mat](data_1c_d.mat)
+###### [data_2b_d.mat](data_2b_d.mat)
 ###### [data_3a_4a_5ab.mat](data_3a_4a_5ab.mat)
 ###### [data_3b_4b_5ce.mat](data_3b_4b_5ce.mat)
 ###### [data_6.mat](data_6.mat)
@@ -33,6 +36,8 @@ Select Dimensionality: 3 <br>
 
 ### 2. Download codes (.m files): 
 ###### [Fig1c_d_code.m](Fig1c_d_code.m)
+###### [Fig1b_code.m](Fig1b_code.m)
+###### [Fig2b_and_d_code.m](Fig2b_and_d_code.m)
 ###### [Fig3a_4a_5a_and_b_code.m](Fig3a_4a_5a_and_b_code.m)
 ###### [Fig3b_4b_5c_and_e_code.m](Fig3b_4b_5c_and_e_code.m)
 ###### [Fig6_code.m](Fig6_code.m)
