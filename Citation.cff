@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ayar"
+  given-names: "Eve"
+title: "Gap_Task_Project_GandhiLab"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-09-07
+url: "https://github.com/ecayar/Gap_Task_Project_GandhiLab"
