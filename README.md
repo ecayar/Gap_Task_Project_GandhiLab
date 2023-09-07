@@ -34,8 +34,8 @@ Select Dimensionality: 3 <br>
 ###### [data_3a_4a_5ab.mat](data_3a_4a_5ab.mat)
 ###### [data_3b_4b_5ce.mat](data_3b_4b_5ce.mat)
 ###### [data_5d.mat](data_5d.mat)
-###### [data_6.mat](data_6.mat)
-
+###### [data_6a.mat](data_6a.mat)
+###### [data_6b.mat](data_6b.mat)
 
 ### 2. Download codes (.m files): 
 ###### [Fig1b_code.m](Fig1b_code.m)
